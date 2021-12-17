@@ -1,6 +1,9 @@
 # hack-different
 Introduction, rules, community guide
 
+# Join
+
+https://discord.gg/hackdifferent
 
 # Rules
 
