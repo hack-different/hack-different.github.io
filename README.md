@@ -1,11 +1,14 @@
-# hack-different
-Introduction, rules, community guide
+# Hack Different
 
-# Join
+Hack Different is a community built around all jailbreaks, reverse engineering and security for Apple products.  It was created by the core [checkra1n](https://checkra.in) team but is owned by the community (in part due to checkm8 being a useful tool for research for years to come).
 
-https://discord.gg/hackdifferent
+## The Discord Server
 
-# Rules
+[Join the Discord Server](https://discord.gg/NAxRYvysuc)
+
+[Add GitHub to your Discord profile](https://support.discord.com/hc/en-us/community/posts/360055030232-Add-Github-as-a-Profile-Connection)
+
+### Rules
 
 Writing out some rules:
 
@@ -13,5 +16,12 @@ Writing out some rules:
 2. No "drama" (i.e. arguments that do not seek a solution).
 3. This is NOT a jailbreak support server. Do not ask for customer support here.
 4. This should be obvious, but no dealing with illegal material here.
+5. Do not ask for ETA.
+6. Do not ask for iCloud lock bypass.
+7. If an admin or mod asks you to change your behaviour, don't make them ask twice.
 
 Violations may result in either a polite warning, a kick, or a ban at the team's discretion
+
+## [Apple Knowledge](https://hackdiffe.rent/apple-knowledge/)
+
+The Apple Knowledge documentation project is a repository of writeups and knowledge for Apple hardware and software.  Pull requests are accepted and reviewed by core team and `#Legit` members.
