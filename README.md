@@ -1,6 +1,8 @@
 # Hack Different
 
-Hack Different is a community built around all jailbreaks, reverse engineering and security for Apple products.  It was created by the core [checkra1n](https://checkra.in) team but is owned by the community (in part due to checkm8 being a useful tool for research for years to come).
+Hack Different is a community built around all jailbreaks, reverse engineering and security for Apple products.  It
+was created by the core [checkra1n](https://checkra.in) team but is owned by the community (in part due to `checkm8`
+being a useful tool for research for years to come).
 
 ## The Discord Server
 
@@ -12,16 +14,17 @@ Hack Different is a community built around all jailbreaks, reverse engineering a
 
 Writing out some rules:
 
-1. Use common sense and behave yourself.
-2. No "drama" (i.e. arguments that do not seek a solution).
-3. This is NOT a jailbreak support server. Do not ask for customer support here.
-4. This should be obvious, but no dealing with illegal material here.
-5. Do not ask for ETA.
-6. Do not ask for iCloud lock bypass.
-7. If an admin or mod asks you to change your behaviour, don't make them ask twice.
+0. Use common sense and behave yourself.
+0. No "drama" (i.e. arguments that do not seek a solution).
+0. This is NOT a jailbreak support server. Do not ask for customer support here.
+0. This should be obvious, but no dealing with illegal material here.
+0. Do not ask for ETA.
+0. Do not ask for iCloud lock bypass.
+0. If an admin or mod asks you to change your behaviour, don't make them ask twice.
 
 Violations may result in either a polite warning, a kick, or a ban at the team's discretion
 
 ## [Apple Knowledge](https://hackdiffe.rent/apple-knowledge/)
 
-The Apple Knowledge documentation project is a repository of writeups and knowledge for Apple hardware and software.  Pull requests are accepted and reviewed by core team and `#Legit` members.
+The Apple Knowledge documentation project is a repository of writeups and knowledge for Apple hardware and software.
+Pull requests are accepted and reviewed by core team and `#Legit` members.

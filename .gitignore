@@ -1,0 +1,6 @@
+_site/
+
+.idea/
+.vscode/
+.DS_Store
+.sass-cache/
