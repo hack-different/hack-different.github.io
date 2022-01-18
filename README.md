@@ -6,7 +6,7 @@ Hack Different is a community built around all jailbreaks, reverse engineering a
 
 [Join the Discord Server](https://discord.gg/NAxRYvysuc)
 
-[Add GitHub to your Discord profile](https://support.discord.com/hc/en-us/community/posts/360055030232-Add-Github-as-a-Profile-Connection)
+[Add GitHub to your Discord profile](LINKING)
 
 ### Rules
 
