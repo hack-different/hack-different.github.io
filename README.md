@@ -29,10 +29,10 @@ Violations may result in either a polite warning, a kick, or a ban at the team's
 The Apple Knowledge documentation project is a repository of writeups and knowledge for Apple hardware and software.
 Pull requests are accepted and reviewed by core team and `#Legit` members.
 
-## The Homebrew Tap (hack-different/jailbreak)
+## The Homebrew Tap
 
 We maintain a [brew](https://brew.sh) tap of jailbreak specific tools.
 
 Taping is quick and easy with `brew tap hack-different/jailbreak`
 
-Information about the tap can be found at [homebrew-jailbreak](https://hackdiffe.rent/homebrew-jailbreak/
+Information about the tap can be found at [homebrew-jailbreak](https://hackdiffe.rent/homebrew-jailbreak/)
