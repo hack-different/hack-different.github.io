@@ -6,9 +6,14 @@ being a useful tool for research for years to come).
 
 ## The Discord Server
 
-[Join the Discord Server](https://discord.gg/NAxRYvysuc)
+[Join the Discord Server](https://discord.gg/hackdifferent)
 
 [Add GitHub to your Discord profile](LINKING)
+
+### [Hacky](https://bot.hackdiffe.rent) - The Poor Man's Jarvis
+
+Hacky is our snarky bot for the Discord server.  It is open source, documented at [https://bot.hackdiffe.rent](https://bot.hackdiffe.rent) and
+the code is hosted at [hack-different/hacky-bot](https://github.com/hack-different/hacky-bot).
 
 ### Rules
 
@@ -24,7 +29,7 @@ Writing out some rules:
 
 Violations may result in either a polite warning, a kick, or a ban at the team's discretion
 
-## [Apple Knowledge](https://hackdiffe.rent/apple-knowledge/)
+## [Apple Knowledge](https://docs.hackdiffe.rent/)
 
 The Apple Knowledge documentation project is a repository of writeups and knowledge for Apple hardware and software.
 Pull requests are accepted and reviewed by core team and `#Legit` members.
@@ -35,4 +40,6 @@ We maintain a [brew](https://brew.sh) tap of jailbreak specific tools.
 
 Taping is quick and easy with `brew tap hack-different/jailbreak`
 
-Information about the tap can be found at [homebrew-jailbreak](https://hackdiffe.rent/homebrew-jailbreak/)
+Information about the tap can be found at [hack-different/homebrew-jailbreak](https://github.com/hack-different/homebrew-jailbreak) and is documented at [tap.hackdiffe.rent](https://tap.hackdiffe.rent/)
+
+
