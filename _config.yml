@@ -1,8 +1,8 @@
 domain: hackdiffe.rent
 url: https://hackdiffe.rent
 theme: jekyll-theme-slate
-title: Hack Different - Community Info
-description: Hack Different is a community of research around the Apple platform.
+title: Hack Different
+description: The Other Apple Developer Program...
 github_username:  hack-different
 exclude:
   - .idea/
