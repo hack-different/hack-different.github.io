@@ -22,7 +22,7 @@ Writing out some rules:
 > 0. Do not ask for iCloud lock bypass.
 > 0. If an admin or mod asks you to change your behaviour, don't make them ask twice.
 
-Violations may result in either a polite warning, a kick, or a ban at the team's discretion
+Violations may result in either a polite warning, a kick, or a ban at the team's discretion.
 
 ### [Hacky](https://bot.hackdiffe.rent) - The Poor Man's Jarvis
 
