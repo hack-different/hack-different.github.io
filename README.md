@@ -10,12 +10,6 @@ being a useful tool for research for years to come).
 
 {% include discord.html %}
 
-### [Hacky](https://bot.hackdiffe.rent) - The Poor Man's Jarvis
-
-Hacky is our snarky bot for the Discord server.  It is open source, documented at
-[https://bot.hackdiffe.rent](https://bot.hackdiffe.rent) and the code is hosted at
-[hack-different/hacky-bot](https://github.com/hack-different/hacky-bot).
-
 ### Rules
 
 Writing out some rules:
@@ -29,6 +23,12 @@ Writing out some rules:
 > 0. If an admin or mod asks you to change your behaviour, don't make them ask twice.
 
 Violations may result in either a polite warning, a kick, or a ban at the team's discretion
+
+### [Hacky](https://bot.hackdiffe.rent) - The Poor Man's Jarvis
+
+Hacky is our snarky bot for the Discord server.  It is open source, documented at
+[https://bot.hackdiffe.rent](https://bot.hackdiffe.rent) and the code is hosted at
+[hack-different/hacky-bot](https://github.com/hack-different/hacky-bot).
 
 ## Apple Knowledge
 
