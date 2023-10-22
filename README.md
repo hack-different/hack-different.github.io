@@ -6,7 +6,7 @@ being a useful tool for research for years to come).
 
 ## The Discord Server
 
-[Join the Discord Server](https://discord.gg/hackdifferent) - [HOWTO: Add GitHub to your Discord profile](LINKING)
+[Join the Discord Server](https://discord.gg/NAxRYvysuc) - [HOWTO: Add GitHub to your Discord profile](LINKING)
 
 {% include discord.html %}
 
