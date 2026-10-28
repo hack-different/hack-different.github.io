@@ -30,6 +30,12 @@ Writing out some rules:
 
 Violations may result in either a polite warning, a kick, or a ban at the team's discretion
 
+## Events and Meetups
+
+Hack Different's meetups, from conference get-togethers to local hangouts, are organized on
+[AudienceKit](https://audiencekit.io). Organizers manage the community's venues and events in the
+[Hack Different console](https://admin.hackdiffe.rent), and can sign in with Discord.
+
 ## Apple Knowledge
 
 [Access the Knowledge](https://docs.hackdiffe.rent/)
