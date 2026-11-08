@@ -4,6 +4,17 @@ A community built around all jailbreaks, reverse engineering and security for Ap
 was created by the core [checkra1n](https://checkra.in) team but is owned by the community (in part due to `checkm8`
 being a useful tool for research for years to come).
 
+## The Hack Different App
+
+Our iPhone app brings the community's events, meetups and venues to your pocket.
+It is in public beta on TestFlight now.
+
+{% include ios_beta.html %}
+
+Install [TestFlight](https://apps.apple.com/app/testflight/id899247664) from the App Store first, then open
+the invite on your iPhone: [testflight.apple.com/join/vHrrYkMJ](https://testflight.apple.com/join/vHrrYkMJ).
+Found a bug?  Send feedback from TestFlight (take a screenshot in the app) or tell us on the Discord.
+
 ## The Discord Server
 
 [Join the Discord Server](https://discord.gg/NAxRYvysuc) - [HOWTO: Add GitHub to your Discord profile](LINKING)
