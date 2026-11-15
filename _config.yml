@@ -5,4 +5,6 @@ title: Hack Different
 description: The Other Apple Developer Program...
 github_username:  hack-different
 exclude:
-  - .idea/
+  - .idea/ios_testflight_url: https://testflight.apple.com/join/vHrrYkMJ
+# Set to the Play Store (or testing opt-in) link to show the Android button
+android_app_url: ""

@@ -6,13 +6,19 @@ being a useful tool for research for years to come).
 
 ## The Hack Different App
 
-Our iPhone app brings the community's events, meetups and venues to your pocket.
-It is in public beta on TestFlight now.
+Our app brings the community's events, meetups and venues to your pocket, on iPhone and Android.
 
-{% include ios_beta.html %}
+{% include app_downloads.html %}
+
+### iPhone (public beta)
 
 Install [TestFlight](https://apps.apple.com/app/testflight/id899247664) from the App Store first, then open
 the invite on your iPhone: [testflight.apple.com/join/vHrrYkMJ](https://testflight.apple.com/join/vHrrYkMJ).
+
+### Android
+
+{% if site.android_app_url and site.android_app_url != "" %}Get it on your Android phone: [{{ site.android_app_url }}]({{ site.android_app_url }}).{% else %}The Android app is on its way. Watch the Discord for the release.{% endif %}
+
 Found a bug?  Send feedback from TestFlight (take a screenshot in the app) or tell us on the Discord.
 
 ## The Discord Server
